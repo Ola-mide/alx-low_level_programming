@@ -13,9 +13,13 @@ void print_array(int *a, int n)
 {
 	int b;
 
-	for (b = 0; b <= n - 1; b++)
+	for (b = 0; b < n; b++)
 	{
-		if (b == n - 1)
+		if (n == 1)
+		{
+			printf("%d\n", a[b]);
+		}
+		else if (b == n - 1)
 		{
 			printf("%d\n", a[b]);
 		}
