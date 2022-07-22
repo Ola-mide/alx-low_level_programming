@@ -7,8 +7,9 @@ A directory for task dealing with arguments to the main function which are argc 
 ```c
 #include <stdio.h>
 
-int main(int argc, char argv[])
+int main(int argc, char *argv[])
 {
 	return (0);
 }
 ```
+![0-whatsmyname.c](0-whatsmyname.png)
