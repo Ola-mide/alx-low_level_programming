@@ -1,6 +1,6 @@
 # Description
 
-A directory for task dealing with arguments to the main function which are argc and argv[]
+A directory for tasks dealing with arguments to the main function which are argc and *argv[]
 
 ## Format
 
