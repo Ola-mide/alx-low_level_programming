@@ -35,7 +35,7 @@ int main(int argc, char *argv[])
 			change += b;
 			a -= b * array[i];
 		}
+		printf("%d\n", change);
 	}
-	printf("%d\n", change);
 	return (0);
 }
