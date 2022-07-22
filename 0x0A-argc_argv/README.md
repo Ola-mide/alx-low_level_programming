@@ -12,4 +12,4 @@ int main(int argc, char *argv[])
 	return (0);
 }
 ```
-![0-whatsmyname.c](0-whatsmyname.png)
+![0-whatsmyname.c](0-whatsmyname.c.png)
