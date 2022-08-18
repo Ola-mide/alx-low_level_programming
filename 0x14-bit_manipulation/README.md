@@ -11,4 +11,4 @@ Operators | Meaning of operators
 ^ | **Bitwise XOR**
 ~ | **Bitwise Complement**
 << | **Bitwise Left Shift**
-\>\> | **Bitwise Right Shift
+\>\> | **Bitwise Right Shift**
