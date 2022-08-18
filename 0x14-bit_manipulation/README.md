@@ -7,8 +7,8 @@ How to manipulate bits and use bitwise operators
 Operators | Meaning of operators
 --- | ---
 & | **Bitwise AND**
-| | **Bitwise OR**
+\| | **Bitwise OR**
 ^ | **Bitwise XOR**
 ~ | **Bitwise Complement**
 << | **Bitwise Left Shift**
->> | **Bitwise Right Shift
+\>\> | **Bitwise Right Shift
