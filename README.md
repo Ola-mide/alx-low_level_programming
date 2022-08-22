@@ -1,7 +1,7 @@
 # C Programming Concepts
-	This repo contains various C programs solving different tasks on particular concepts
+This repo contains various C programs solving different tasks on particular concepts
 
-	All files are compiled on Ubuntu 20.04 LTS using <b>gcc<b/>, using the options <b>-Wall -pedantic -Werror -Wextra -std=gnu89</b>
+All files are compiled on Ubuntu 20.04 LTS using <b>gcc</b>, using the options <b>-Wall -pedantic -Werror -Wextra -std=gnu89</b>
 
 ## Directories
 
